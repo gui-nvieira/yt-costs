@@ -15,7 +15,7 @@ function Footer() {
                     <AiFillInstagram />
                 </li>
             </ul>
-            <p className={styles.copyright}> <span>Costs</span> &copy; 2021</p>
+            <p className={styles.copyright}> <span>Costs - Editado por Guilherme Vieira</span> &copy; 2023</p>
         </footer>
     )
 
